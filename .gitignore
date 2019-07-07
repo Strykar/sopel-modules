@@ -1,7 +1,5 @@
 #.gitignore
 helloworld.py
-strava2.py
-babac/*
 *.pyc
 *.ipynb
 *.xml
